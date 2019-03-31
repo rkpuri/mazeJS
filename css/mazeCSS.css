@@ -1,0 +1,23 @@
+#wrapper {
+    margin: auto;
+    width: 20%;
+}
+
+.fileInput {
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.tile {
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    display: inline-block;
+}
+.wall {
+    background-color: darkgray;
+}
+.path {
+    background-color: green;
+}
